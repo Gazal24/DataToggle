@@ -1,4 +1,4 @@
-package com.appazal.dondoff;
+package com.appazal.datatoggle;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
